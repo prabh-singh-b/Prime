@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prime", "Prime.vcxproj", "{543EDD25-E5C2-4329-9004-26D5566684FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543EDD25-E5C2-4329-9004-26D5566684FD}.Debug|x64.ActiveCfg = Debug|x64
+		{543EDD25-E5C2-4329-9004-26D5566684FD}.Debug|x64.Build.0 = Debug|x64
+		{543EDD25-E5C2-4329-9004-26D5566684FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{543EDD25-E5C2-4329-9004-26D5566684FD}.Debug|x86.Build.0 = Debug|Win32
+		{543EDD25-E5C2-4329-9004-26D5566684FD}.Release|x64.ActiveCfg = Release|x64
+		{543EDD25-E5C2-4329-9004-26D5566684FD}.Release|x64.Build.0 = Release|x64
+		{543EDD25-E5C2-4329-9004-26D5566684FD}.Release|x86.ActiveCfg = Release|Win32
+		{543EDD25-E5C2-4329-9004-26D5566684FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A83D0E3-75F4-442B-98C9-DCAFC585544D}
+	EndGlobalSection
+EndGlobal

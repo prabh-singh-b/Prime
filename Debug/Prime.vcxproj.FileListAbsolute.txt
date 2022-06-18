@@ -1,0 +1,2 @@
+E:\Projects\Prime\Debug\Prime.exe
+E:\Projects\Prime\Debug\Prime.pdb
